@@ -31,7 +31,7 @@ To run the calculator application locally, follow these steps:
 ```
 4. Start the Node.js server:
 ```bash
-  npm start
+  nodemon app
 ```
 5. Open your web browser and go to http://localhost:3000 to access the calculator application.
 
